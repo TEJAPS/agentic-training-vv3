@@ -103,6 +103,7 @@ This repository contains the course content, labs, and projects for **Agentic AI
   - Project wrap-up.
   - 🔎 **AI Tools Exploration**: Try **AI Data Visualization Tools** → [Tableau](https://www.tableau.com), [Flourish](https://flourish.studio), [Juice](https://www.juiceanalytics.com).  
 
+---
 
 ### **More Topics: To be added in the course sequence**
 - **RAG pipeline**:
